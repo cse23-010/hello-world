@@ -1,3 +1,4 @@
+
 h1 {
   color:Grey;
 }
@@ -7,6 +8,15 @@ h3 {
 h2{
   color:Purple;
 }
+body{
+      background-color:Lavender;
+    }
+      p{
+        color:Purple;
+        text-align:right;
+      }
+      
+
 
   
   
